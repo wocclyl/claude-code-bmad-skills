@@ -5,19 +5,25 @@ description: "Transform Claude Code into a complete agile development environmen
 keywords: "Claude Code, BMAD Method, agile development, AI development, Claude skills, AI pair programming"
 ---
 
+<div class="hero-section" markdown="1">
+
 # BMAD Method for Claude Code
 
-**A complete agile development methodology converted to Claude Code native features**
+<p class="hero-subtitle">A complete agile development methodology converted to Claude Code native features</p>
 
-[![Version](https://img.shields.io/badge/version-6.0.3-blue.svg)](https://github.com/aj-geddes/claude-code-bmad-skills/releases)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/aj-geddes/claude-code-bmad-skills/blob/main/LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](#installation)
+<div class="badges">
+<a href="https://github.com/aj-geddes/claude-code-bmad-skills/releases"><img src="https://img.shields.io/badge/version-6.0.3-blue.svg" alt="Version" /></a>
+<a href="https://github.com/aj-geddes/claude-code-bmad-skills/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License" /></a>
+<a href="#installation"><img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg" alt="Platform" /></a>
+</div>
+
+</div>
 
 ---
 
 ## Attribution & Credits
 
-<div style="background: #f0f7ff; padding: 20px; border-radius: 8px; border-left: 4px solid #0066cc; margin: 20px 0;" markdown="1">
+<div class="attribution-box" markdown="1">
 
 **This project is a Claude Code native conversion of the BMAD Method.**
 
@@ -116,48 +122,36 @@ Plan sprints, create stories, and implement features.
 
 ## Documentation
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 20px 0;" markdown="1">
+<div class="docs-grid">
 
-<div style="background: #f5f5f5; padding: 20px; border-radius: 8px;" markdown="1">
-
-### [Getting Started](./getting-started)
-Installation, first steps, and your first BMAD project.
-
+<div class="docs-card">
+<h3><a href="./getting-started">Getting Started</a></h3>
+<p>Installation, first steps, and your first BMAD project.</p>
 </div>
 
-<div style="background: #f5f5f5; padding: 20px; border-radius: 8px;" markdown="1">
-
-### [Skills Reference](./skills/)
-Detailed documentation for all 9 BMAD skills.
-
+<div class="docs-card">
+<h3><a href="./skills/">Skills Reference</a></h3>
+<p>Detailed documentation for all 9 BMAD skills.</p>
 </div>
 
-<div style="background: #f5f5f5; padding: 20px; border-radius: 8px;" markdown="1">
-
-### [Commands Reference](./commands/)
-Complete guide to all 15 workflow commands.
-
+<div class="docs-card">
+<h3><a href="./commands/">Commands Reference</a></h3>
+<p>Complete guide to all 15 workflow commands.</p>
 </div>
 
-<div style="background: #f5f5f5; padding: 20px; border-radius: 8px;" markdown="1">
-
-### [Examples](./examples/)
-Real-world examples and complete workflow walkthroughs.
-
+<div class="docs-card">
+<h3><a href="./examples/">Examples</a></h3>
+<p>Real-world examples and complete workflow walkthroughs.</p>
 </div>
 
-<div style="background: #f5f5f5; padding: 20px; border-radius: 8px;" markdown="1">
-
-### [Configuration](./configuration)
-Customize BMAD for your needs.
-
+<div class="docs-card">
+<h3><a href="./configuration">Configuration</a></h3>
+<p>Customize BMAD for your needs.</p>
 </div>
 
-<div style="background: #f5f5f5; padding: 20px; border-radius: 8px;" markdown="1">
-
-### [Troubleshooting](./troubleshooting)
-Common issues and solutions.
-
+<div class="docs-card">
+<h3><a href="./troubleshooting">Troubleshooting</a></h3>
+<p>Common issues and solutions.</p>
 </div>
 
 </div>
@@ -276,10 +270,7 @@ BMAD for Claude Code provides:
 
 ---
 
-<div style="text-align: center; margin-top: 40px; padding: 20px; background: #f9f9f9; border-radius: 8px;" markdown="1">
-
-**Ready to transform your development workflow?**
-
-[Get Started →](./getting-started)
-
+<div class="cta-section">
+<p>Ready to transform your development workflow?</p>
+<a href="./getting-started">Get Started</a>
 </div>
