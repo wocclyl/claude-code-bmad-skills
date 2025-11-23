@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "BMAD Commands Reference - Slash Commands for Agile Development"
+title: "Commands"
 description: "Complete reference for all 15 BMAD slash commands. Learn how to use each command with detailed examples and best practices."
 keywords: "BMAD commands, Claude Code commands, slash commands, workflow commands, agile commands"
 ---

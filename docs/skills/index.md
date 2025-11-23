@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "BMAD Skills Reference - AI Agents for Agile Development"
+title: "Skills"
 description: "Complete reference for all 9 BMAD skills (AI agents). Learn how each skill works and when to use them in your development workflow."
 keywords: "BMAD skills, Claude Code agents, AI development agents, business analyst AI, product manager AI, architect AI"
 ---

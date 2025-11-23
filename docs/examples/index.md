@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "BMAD Examples - Complete Workflow Walkthroughs"
+title: "Examples"
 description: "Real-world examples of using BMAD Method for Claude Code. Complete project walkthroughs from product brief to implementation."
 keywords: "BMAD examples, Claude Code tutorials, agile workflow examples, development workflow tutorial"
 ---
